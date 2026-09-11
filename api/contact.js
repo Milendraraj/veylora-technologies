@@ -68,10 +68,11 @@ export default async function handler(req, res) {
     }
 
     return res.status(200).json({ ok: true, id: data.id });
-  } catch {
-    return res.status(500).json({
-      ok: false,
-      message: "Something went wrong. Please try again."
-    });
-  }
+  } catch (error) {
+  console.error("CONTACT API ERROR:", error);
+
+  return res.status(500).json({
+    ok: false,
+    message: "Something went wrong. Please try again."
+  });
 }
