@@ -1,22 +1,87 @@
-# Veylora Technologies — Portfolio v1
+# Digital experiences with depth.
 
-A futuristic, vibrant Veylora Technologies portfolio site inspired by the approved visual direction. It uses the official Veylora logo supplied for this project and is structured for easy deployment to Vercel.
+Veylora Technologies is a modern digital technology studio focused on building premium websites, AI-powered solutions, automation systems, and digital growth experiences.
 
-## Included
-- Dark futuristic UI with blue/cyan/violet accents
-- Official Veylora logo in navbar, hero and footer
-- Animated hero, orbit rings, stars and glowing effects
-- Interactive cursor and hover tilt
-- Services, showcase projects, process, about and contact sections
-- Responsive desktop/tablet/mobile layout
-- No build step required for the current static v1
+We combine design, technology, AI, and automation to create digital products that are fast, intelligent, scalable, and built to make an impact.
 
-## Deploy to Vercel
-1. Put the `veylora-site` folder in a GitHub repository.
-2. Import the repository into Vercel.
-3. Deploy with the project root set to the repository root.
+✦ What We Do
+Web Development
 
-You can also drag the project into a Vercel workflow that supports static sites.
+High-performance, modern websites designed around your brand, audience, and goals.
 
-## Notes
-The showcase projects are concepts, not client claims. Replace contact email and project links before launch.
+Business websites
+Landing pages
+Portfolio websites
+E-commerce experiences
+Custom web applications
+Responsive & mobile-first development
+AI Solutions
+
+Practical AI integrations that help businesses work smarter.
+
+AI-powered features
+AI assistants & chatbots
+Intelligent workflows
+AI integrations
+Custom AI experiences
+Automation
+
+Turn repetitive work into efficient digital systems.
+
+Business process automation
+Lead automation
+Workflow automation
+API integrations
+Notifications & data workflows
+Digital Growth
+
+Technology and digital experiences designed to help businesses grow.
+
+Conversion-focused websites
+Digital strategy
+SEO-ready foundations
+Lead generation systems
+Performance optimization
+✦ Experience
+
+Veylora's website is designed as a cinematic digital experience rather than a traditional agency template.
+
+It features:
+
+Interactive 3D visuals
+Mouse-reactive depth effects
+Magnetic interactions
+Scroll-based animations
+Dynamic service experiences
+Animated process timeline
+Parallax effects
+Cinematic typography
+Interactive contact experience
+Responsive layouts
+Reduced-motion support
+Custom cursor interactions
+Premium dark futuristic visual system
+
+The goal is simple:
+
+Make technology feel human.
+
+✦ Tech Stack
+
+Frontend
+
+HTML5
+CSS3
+JavaScript
+Three.js
+
+Backend
+
+Vercel Serverless Functions
+Resend API
+
+Deployment
+
+GitHub
+Vercel
+Custom Domain
